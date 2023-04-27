@@ -1,0 +1,5 @@
+name: balbOnline
+author: Balbucio
+version: 2.0
+main: me.balbucio.online.Main
+description: Veja os jogadores online no seu servidor.

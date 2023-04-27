@@ -1,0 +1,5 @@
+#Criado por Sr_Balbucio - balbOnline V2
+nopermissionmessage: true #Enviar uma mensagem quando player não tiver permissão
+
+spigot:
+ use: true #Invés de enviar uma mensagem para o player, ele abrirá um GUI.

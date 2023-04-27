@@ -1,0 +1,5 @@
+name: balbOnline
+version: 2.0
+author: Balbucio
+description: Dependencia do balbOnline Bungeecord.
+main: me.balbucio.bukkit.online.Spigot

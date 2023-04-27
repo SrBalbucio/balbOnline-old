@@ -1,0 +1,22 @@
+#Você pode usar &
+prefix: "§b[ONLINE]"
+defaultmessage: "{prefix} §aO servidor contém §e{count} jogador(es) §aonline."
+nopermission: "§cSem permissão."
+listar: "{prefix} §aPlayers Online:§f {players}"
+playerhover: "§7Server:§f {server}\n§7Ping:§f {ping}ms\n§7UUID:§f {uniqueid}"
+toggleativado: "{prefix} §aO toggle foi §e§lATIVADO§a."
+toggledesativado: "{prefix} §aO toggle foi §c§lDESATIVADO§a."
+servermessage: "{prefix} §aO servidor §e{server} §aestá com §e{count} jogador(es) §aonline."
+serverlistar: "{prefix} §aPlayers Online no servidor §e{server}§a:§f {players}"
+maxplayers: "{prefix} §aO número máximo de players ativos foi §e{count}§a."
+togglemessage: "{prefix} §aO §f{player} §aentrou no servidor."
+serverdefault: "{prefix} §aO servidor {server} contém §e{count} jogador(es) §aonline!"
+notfound: "§cOps... Esse comando/servidor não foi encontrado!\n§cUse /online help para saber todos comandos."
+guititle: "§7Online"
+gui:
+ onlineitem:
+  title: "§bInformações"
+  lore: "§7Total Online: §f{count}\n§7Total Online neste servidor: §f{this}"
+ maxitem: #Diferença é número para atingir o máximo atual!
+  title: "§bEstatísticas"
+  lore: "§7Jogadores Máximos Alcançados: §f{count}\n§7Diferença atual: §f{diferenca}"
